@@ -1,0 +1,31 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#39D353"/>
+      <stop offset="50%"  stop-color="#F0E040"/>
+      <stop offset="100%" stop-color="#FF8C00"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="140" fill="url(#bgGrad)"/>
+
+  <!-- Wave shape -->
+  <path d="M0,60 C150,100 300,20 450,60 C600,100 750,20 900,60 L900,140 L0,140 Z"
+        fill="url(#waveGrad)" opacity="0.3"/>
+  <path d="M0,80 C180,110 360,40 540,80 C720,120 810,50 900,75 L900,140 L0,140 Z"
+        fill="url(#waveGrad)" opacity="0.5"/>
+  <path d="M0,100 C200,115 400,75 600,100 C750,118 850,85 900,95 L900,140 L0,140 Z"
+        fill="url(#waveGrad)" opacity="1"/>
+
+  <!-- Name text -->
+  <text x="450" y="62" text-anchor="middle"
+        font-family="'JetBrains Mono', 'Courier New', monospace"
+        font-size="38" font-weight="bold"
+        fill="url(#waveGrad)"
+        letter-spacing="2">Giacomo Petrillo</text>
+</svg>
