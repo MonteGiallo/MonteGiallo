@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MonteGiallo/MonteGiallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Giacomo+Petrillo;AI+%26+IoT+Student+from+Italy;Building+things+that+think" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I'm **Giacomo Petrillo** ![Italian](https://img.shields.io/badge/🇮🇹_Italian-FF8C00?style=flat-square&logoColor=white), a student of **IoT and AI** drawn to technology since before I could explain why.
+
+Right now I'm interning in ![Warsaw](https://img.shields.io/badge/Warsaw-F0E040?style=flat-square&logoColor=black), building **AI-powered automation systems** and experimenting with **multi-agent workflows** — the kind of stuff where agents talk to agents and something useful comes out the other end.
+
+I work comfortably on ![Linux](https://img.shields.io/badge/Linux-39D353?style=flat-square&logo=linux&logoColor=black), care deeply about **clean architecture**, and keep gravitating toward the edge where ![AI](https://img.shields.io/badge/AI-FF8C00?style=flat-square&logoColor=white) meets **real-world systems**.
+
+---
+
+## Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=F0E040)
+![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=39D353)
+
+**AI & Agents**
+
+![Anthropic](https://img.shields.io/badge/Anthropic_SDK-1a1a2e?style=for-the-badge&logo=anthropic&logoColor=F0E040)
+![Claude](https://img.shields.io/badge/Claude_Code-1a1a2e?style=for-the-badge&logoColor=39D353)
+![n8n](https://img.shields.io/badge/n8n-1a1a2e?style=for-the-badge&logo=n8n&logoColor=F0E040)
+![MCP](https://img.shields.io/badge/MCP-1a1a2e?style=for-the-badge&logoColor=39D353)
+
+**Backend & Data**
+
+![Django](https://img.shields.io/badge/Django-1a1a2e?style=for-the-badge&logo=django&logoColor=39D353)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=F0E040)
+
+**Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=F0E040)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=39D353)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=F0E040)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=39D353)
+![Obsidian](https://img.shields.io/badge/Obsidian-1a1a2e?style=for-the-badge&logo=obsidian&logoColor=F0E040)
+
+---
+
+<div align="center">
+  <sub>still learning · always building</sub>
+</div>
