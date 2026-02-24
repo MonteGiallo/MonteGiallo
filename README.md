@@ -1,4 +1,4 @@
-<img src="./banner.svg" width="100%" alt="Giacomo Petrillo" />
+<img src="./banner.svg" width="100%" alt="MonteGiallo Banner" />
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 I'm **Giacomo Petrillo** ![Italian](https://img.shields.io/badge/🇮🇹_Italian-FF8C00?style=flat-square&logoColor=white), a student of **IoT and AI** drawn to technology since before I could explain why. I work comfortably on ![Linux](https://img.shields.io/badge/Linux-39D353?style=flat-square&logo=linux&logoColor=black), care deeply about **clean architecture**, and keep gravitating toward the edge where ![AI](https://img.shields.io/badge/AI-FF8C00?style=flat-square&logoColor=white) meets **real-world systems**.
 
-My focus is **agentic AI** — systems where models don't just answer questions but take actions, call tools, and hand off work to each other.
+My focus is **agentic AI** — systems where models don't just answer questions but take actions, call tools, and hand off work to each other. **MCP** (*Model Context Protocol*): shared context per multi-agent collab [web:24].
 
 ---
 
@@ -52,7 +52,7 @@ When I'm not building things, I'm probably at a ![concert](https://img.shields.i
 ---
 
 <div align="center">
-  <sub>still learning · always building</sub>
+  <h3><sub>still learning · always building</sub></h3>
 </div>
 
-<img src="./footer.svg" width="100%" alt="footer" />
+<img src="./footer.svg" width="100%" alt="Footer" />
