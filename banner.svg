@@ -1,18 +1,31 @@
-<svg viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" width="100%" preserveAspectRatio="xMinYMin meet">
+<svg width="900" height="95" viewBox="0 0 900 95" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1a1a2e"/>
-      <stop offset="100%" stop-color="#16213e"/>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#39D353"/>
+      <stop offset="50%"  stop-color="#F0E040"/>
+      <stop offset="100%" stop-color="#FF8C00"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="240" fill="url(#bg)"/>
-  <path d="M0 200 Q 300 120 600 180 900 140 1200 200 L 1200 240 L 0 240 Z" fill="#FF8C00">
-    <animateTransform attributeName="transform" type="translate" values="0,0; -20,-5; 0,0" dur="8s" repeatCount="indefinite"/>
-  </path>
-  <path d="M0 220 Q 400 140 800 190 1200 170 L 1200 240 L 0 240 Z" fill="#F0E040">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 15,-8; 0,0" dur="12s" repeatCount="indefinite" begin="0s"/>
-  </path>
-  <path d="M0 230 Q 200 160 500 200 800 170 1200 210 L 1200 240 L 0 240 Z" fill="#39D353">
-    <animateTransform attributeName="transform" type="translate" values="0,0; -10,-3; 0,0" dur="16s" repeatCount="indefinite" begin="4s"/>
-  </path>
+
+  <!-- Background -->
+  <rect width="900" height="95" fill="url(#bgGrad)"/>
+
+  <!-- Wave shape -->
+  <path d="M0,30 C150,65 300,5 450,30 C600,60 750,5 900,30 L900,95 L0,95 Z"
+        fill="url(#waveGrad)" opacity="0.3"/>
+  <path d="M0,45 C180,70 360,15 540,45 C720,75 810,25 900,45 L900,95 L0,95 Z"
+        fill="url(#waveGrad)" opacity="0.5"/>
+  <path d="M0,62 C200,78 400,45 600,62 C750,75 850,52 900,60 L900,95 L0,95 Z"
+        fill="url(#waveGrad)" opacity="1"/>
+
+  <!-- Name text -->
+  <text x="450" y="32" text-anchor="middle"
+        font-family="'JetBrains Mono', 'Courier New', monospace"
+        font-size="28" font-weight="bold"
+        fill="url(#waveGrad)"
+        letter-spacing="2">Giacomo Petrillo</text>
 </svg>
